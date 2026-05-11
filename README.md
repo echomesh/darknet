@@ -2,7 +2,8 @@
 Dark Comms Mesh
 
 
-```┌─────────────┐                                  ┌─────────────┐
+```
+┌─────────────┐                                  ┌─────────────┐
 │   Alice's   │                                  │   Bob's     │
 │   Browser   │                                  │   Browser   │
 └──────┬──────┘                                  └──────┬──────┘
@@ -21,5 +22,14 @@ Dark Comms Mesh
 │        │ USB    │       ║    relays etc)║      │        │ USB    │
 │   [Heltec LoRa]─┼───────╝               ╚──────┼─[Heltec LoRa]   │
 │                 │                              │                 │
-└─────────────────┘                              └─────────────────┘```
+└─────────────────┘                              └─────────────────┘
 
+```
+
+<img width="1472" height="920" alt="image" src="https://github.com/user-attachments/assets/044c3098-8a62-488f-975c-8b957a9e09a9" />
+
+<img width="1472" height="1200" alt="image" src="https://github.com/user-attachments/assets/943bbf09-6501-4a6d-ac69-8e475eef93aa" />
+
+<img width="1472" height="1400" alt="image" src="https://github.com/user-attachments/assets/7f824635-1f53-4e0f-90f6-d2c8633ca7df" />
+
+<img width="1472" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfa08a40-b79e-4f37-a2a3-681141ff268a" />
