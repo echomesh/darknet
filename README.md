@@ -1,6 +1,14 @@
 # darknet
 Dark Comms Mesh
 
+Dev of Darknet
+
+### Setup Pi
+
+## Install Pi OS on Pi
+
+Clone Repo
+
 
 ```
 ┌─────────────┐                                  ┌─────────────┐
